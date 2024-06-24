@@ -679,12 +679,12 @@
     "impactColour": "info"
   },
   {
-    "name": "standards.AutoExpandArchive",
+    "name": "standards.AutoExpand",
     "cat": "Exchange Standards",
     "tag": ["lowimpact"],
-    "helpText": "Enables auto-expanding archives for the tenant",
+    "helpText": "Enables auto-expanding s for the tenant",
     "addedComponent": [],
-    "label": "Enable Auto-expanding archives",
+    "label": "Enable Auto-expanding s",
     "impact": "Low Impact",
     "impactColour": "info"
   },
@@ -697,6 +697,16 @@
     "label": "Enable Online Archive for all users",
     "impact": "Low Impact",
     "impactColour": "info"
+  },
+  {
+  "name": "standards.EnableLitigationHold",
+  "cat": "Exchange Standards",
+  "tag": ["lowimpact"],
+  "helpText": "Enables litigation hold for all UserMailboxes with a valid license.",
+  "addedComponent": [],
+  "label": "Litigation hold for all users",
+  "impact": "Low Impact",
+  "impactColour": "info"
   },
   {
     "name": "standards.SpoofWarn",
