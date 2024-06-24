@@ -679,12 +679,12 @@
     "impactColour": "info"
   },
   {
-    "name": "standards.AutoExpand",
+    "name": "standards.AutoExpandArchive",
     "cat": "Exchange Standards",
     "tag": ["lowimpact"],
-    "helpText": "Enables auto-expanding s for the tenant",
+    "helpText": "Enables auto-expanding archives for the tenant",
     "addedComponent": [],
-    "label": "Enable Auto-expanding s",
+    "label": "Enable Auto-expanding archives",
     "impact": "Low Impact",
     "impactColour": "info"
   },
