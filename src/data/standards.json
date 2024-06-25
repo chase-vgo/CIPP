@@ -704,7 +704,7 @@
   "tag": ["lowimpact"],
   "helpText": "Enables litigation hold for all UserMailboxes with a valid license.",
   "addedComponent": [],
-  "label": "Litigation hold for all users",
+  "label": "Enable Litigation Hold for all users",
   "impact": "Low Impact",
   "impactColour": "info"
   },
